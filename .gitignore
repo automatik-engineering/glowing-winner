@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+.DS_Store
+.docusaurus
+.cache-loader
+/coverage
+/.tshy
+/.tshy-build
+/dist
+/website/docs/api
+/website/build
